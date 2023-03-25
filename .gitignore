@@ -1,0 +1,13 @@
+fashionIMG.csv
+fashionLAB.csv
+imgMNIST.csv
+tarMNIST.csv
+w01.csv
+w12.csv
+_build/dev/lib
+deps
+mnistfullIMG.mtx
+mnistfullLAB.mtx
+erl_crash.dump
+nohup.out
+timer.txt
